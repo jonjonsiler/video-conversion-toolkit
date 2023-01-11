@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<topics>
+	<topic type="topic">
+		<title>Arts &amp; Entertainment</title>
+		<topic type="subtopic">
+			<title>Film &amp; Television</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Performing Arts</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Music</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Fine Arts</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Literature &amp; Writing</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Drama</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Folk Art &amp; Crafts</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Biography &amp; Profiles</title>
+		</topic>
+	</topic>
+	<topic type="topic">
+		<title>Culture &amp; Society</title>
+		<topic type="subtopic">
+			<title>Religion &amp; Beliefs</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Community</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Race &amp; Ethnicity</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Gender &amp; Sexual Identity</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Food</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Travel</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Media &amp; Technology</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Sports &amp; Recreation</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Holidays</title>
+		</topic>
+		<topic type="subtopic">
+			<title>People &amp; Profiles</title>
+		</topic>
+	</topic>
+	<topic type="topic">
+		<title>Health</title>
+		<topic type="subtopic">
+			<title>People &amp; Profiles</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Health Care &amp; Illnesses</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Fitness &amp; Nutrition</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Aging</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Women</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Lifestyle</title>
+		</topic>
+	</topic>
+	<topic type="topic">
+		<title>Caregiving</title>
+		<topic type="subtopic">
+			<title>Parents</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Child Development</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Education</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Fun &amp; Games</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Healthy Kids</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Issues &amp; Advice</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Birthday Parties</title>
+		</topic>
+	</topic>
+	<topic type="topic">
+		<title>Home & How-to</title>
+		<topic type="subtopic">
+			<title>Antiques &amp; Collectibles</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Cooking</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Gardening</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Home Improvement</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Personal Finance</title>
+		</topic>
+	</topic>
+	<topic type="topic">
+		<title>History</title>
+		<topic type="subtopic">
+			<title>Civilizations</title>
+		</topic>
+		<topic type="subtopic">
+			<title>World</title>
+		</topic>
+		<topic type="subtopic">
+			<title>United States</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Prehistoric</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Ancient &amp; Classical</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Middle Ages</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Renaissance</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Enlightenment</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Victorian</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Modern</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Archeaology</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Geneology</title>
+		</topic>
+		<topic type="subtopic">
+			<title>War &amp; Conflict</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Biography &amp; Profiles</title>
+		</topic>
+	</topic>
+	<topic type="topic">
+		<title>Science & Nature</title>
+		<topic type="subtopic">
+			<title>Earth</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Environment</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Natural History</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Weather &amp; Natural Disasters</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Animals</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Psychology &amp; The Mind</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Biology &amp; Chemistry</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Astronomy</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Physics &amp; Mathematics</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Forensics &amp; Investigations</title>
+		</topic>
+		<topic type="subtopic">
+			<title>Biography &amp; Profiles</title>
+		</topic>
+		<topic type="subtopic">
+			<title></title>
+		</topic>
+	</topic>
+
+	<topic type="topic">
+		<title>News & Public Affairs</title>
+	Business & Economy
+	Government
+	Politics
+	National Security
+	Global Affairs
+	Environment
+	Science & Technology
+	Women
+	Race & Ethnicity
+	Social Issues
+	Health
+	Education
+	Religion & Beliefs
+	Arts & Entertainment
+	Media
+	Sports
+	Opinion
+	Biography & Profiles
+	</topic>
+	<topic type="topic">
+		<title>Technology</title>
+		Space
+	Energy & Environment
+	Transportation & Infrastructure
+	Military & Espionage
+	Health
+	Communications & Media
+	Society
+	Biography & Profiles</topic>
+</topics>
+</root>

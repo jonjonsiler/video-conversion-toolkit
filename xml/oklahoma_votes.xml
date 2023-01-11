@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Oklahoma Votes</title>
+	<creator>OETA</creator>
+	<annotation>Selected Videos from Oklahoma Votes Election coverage.</annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Election Analysis</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Election_Analysis.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Election_Analysis.jpg</image>
+			<identifier>1128</identifier>
+			<annotation><![CDATA[ONR political analysts Ben Odom and Doug Miller talk about the aftermath of the Tuesday election and what it likely means for the state's future.]]></annotation>
+			<trackNum>49</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Fallin Hometown</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Fallin_Hometown.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Fallin_Hometown.jpg</image>
+			<identifier>1127</identifier>
+			<annotation><![CDATA[ONR paid a visit to the hometown of Governor-Elect Mary Fallin to see how the city of Tecumseh is reacting to victory of one of their native daughters.]]></annotation>
+			<trackNum>48</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Fallin Press Conference</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Fallin_Press_Conference.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Fallin_Press_Conference.jpg</image>
+			<identifier>1126</identifier>
+			<annotation><![CDATA[Governor-Elect Mary Fallin and lame duck Governor Brad Henry hold a joint news conference to talk about the transition of power.  
+]]></annotation>
+			<trackNum>47</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Hispanic Vote</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Hispanic_Vote.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Hispanic_Vote.jpg</image>
+			<identifier>1124</identifier>
+			<annotation><![CDATA[While television stations across the state were filled with political advertising, one was left without any.  Telemundo, the Spanish speaking television station did not get one political ad buy.  Politicians, according to Hispanic community leaders in Oklahoma City, largely ignored the Latino vote.
+
+]]></annotation>
+			<trackNum>46</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Election Review Live</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Election_Review_Live.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Election_Review_Live.jpg</image>
+			<identifier>1123</identifier>
+			<annotation><![CDATA[Outgoing state Rep. Ryan Kiesel and state Senator John Ford discuss the turnout and what they expect to see from tonight’s election and the future make up of state government.]]></annotation>
+			<trackNum>45</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Voter Turnout</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Voter_Turnout.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Voter_Turnout.jpg</image>
+			<identifier>1122</identifier>
+			<annotation><![CDATA[Turnout is running at or above what state election officials had expected for today’s general election. How that impacts polling data and outcomes we won’t know until later tonight.
+
+]]></annotation>
+			<trackNum>44</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Early Voting</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Early_Voting.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Early_Voting.jpg</image>
+			<identifier>1115</identifier>
+			<annotation><![CDATA[Thousands of Oklahomans have already cast their votes. The historic governor's race between Democratic candidate Jari Askins and Republican candidate Mary Fallin, as well as the numerous state questions on the ballot, are among the factors driving many people to vote early.]]></annotation>
+			<trackNum>43</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Debate Prep</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Debate_Prep.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Debate_Prep.jpg</image>
+			<identifier>1113</identifier>
+			<annotation><![CDATA[What does it take to host a gubernatorial debate? How do the candidates prepare? How do the panel of journalists decide which questions to ask? We get answers as we look at the preparation before one of the debates between gubernatorial candidates Jari Askins and Mary Fallin.]]></annotation>
+			<trackNum>42</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Politics of Words</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Politics_of_Words.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Politics_of_Words.jpg</image>
+			<identifier>1112</identifier>
+			<annotation><![CDATA[A noted sociologist talks about the impact of current political speech on voters and society as a whole. We talked with four first-time voters, after they viewed negative commercials, and got immediate feedback on their impressions of the ads, and how the ads may influence their votes.]]></annotation>
+			<trackNum>41</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Civility Live Interview</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Civility_Live.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Civility_Live.jpg</image>
+			<identifier>1111</identifier>
+			<annotation><![CDATA[Al Gerhart is the leader of one of Oklahoma's Tea Party groups. He talked about the loss of civility, why several recent incidents involving Tea Party members have turned violent, and which state questions the group supports or opposes.]]></annotation>
+			<trackNum>40</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Civility</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Civility.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Civility.jpg</image>
+			<identifier>1110</identifier>
+			<annotation><![CDATA[Two conferences on the subject of politics and civility were held this week. The first conference featured the Chairman of the National Endowment for the Humanities, speaking at Oklahoma City University. The second conference featured former lawmakers, congressional and senatorial aides, and people who grew up in Washington, DC, with a father serving as a member of Congress from Oklahoma. Participants at both conferences agreed that the current political atmosphere in America is toxic, and that extreme partisanship is dangerous. ]]></annotation>
+			<trackNum>39</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Access</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Access.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Access.jpg</image>
+			<identifier>1107</identifier>
+			<annotation><![CDATA[New state laws mandate that personnel at polling locations have to be trained to help people with disabilities if those voters need assistance in casting a ballot. ]]></annotation>
+			<trackNum>38</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Mom Wars</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Mom_Wars.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Mom_Wars.jpg</image>
+			<identifier>1106</identifier>
+			<annotation><![CDATA[A comment from Congresswoman Mary Fallin in her first gubernatorial debate, has sparked a nationwide debate over the role of motherhood in politics.]]></annotation>
+			<trackNum>37</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Senate Campaign</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Senate_Campaign.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Senate_Campaign.jpg</image>
+			<identifier>1101</identifier>
+			<annotation><![CDATA[Jim Rogers, the Democratic candidate for U.S. Senate, makes no campaign appearances, has no campaign signs, and raises no money. We attempt to get Rogers to talk about his "no campaign" approach.]]></annotation>
+			<trackNum>36</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes</title>
+			<ov:subtitle>Promo</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Promo.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Promo.jpg</image>
+			<identifier>1100</identifier>
+			<annotation><![CDATA[OETA's comprehensive election program, Oklahoma Votes 2010 will be on-line and on the air Tuesday, November 2 from 7pm to 11pm. We will interview candidates, political experts and political party representatives throughout the 4 hours of coverage. Tune in November 2 at 7pm.]]></annotation>
+			<trackNum>35</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Ad War Analysis</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Ad_War_Analysis.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Ad_War_Analysis.jpg</image>
+			<identifier>1091</identifier>
+			<annotation><![CDATA[University of Oklahoma professor and political advertising expert, Kim Gaddie, helps sort out the dynamics of political advertising in this election cycle.  She explains how candidates and campaigns often take a grain of truth and "spin it" to their advantage.  She shares her perspective on several races, including those for governor, lieutenant governor and State Question 744.
+]]></annotation>
+			<trackNum>33</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Political Ad Wars #2</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Political_Ad_Wars_2.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Political_Ad_Wars_2.jpg</image>
+			<identifier>1089</identifier>
+			<annotation><![CDATA[In this second of two reports, we focus on the larger issue of political advertising, and the increased use of new mediums of communication such as Facebook and Twitter.  We also try to sort out fact from fiction in the heated campaigns "for" and "against" State Question 744.  ]]></annotation>
+			<trackNum>32</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Political Ad Wars</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Political_Ad_Wars.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Political_Ad_Wars.jpg</image>
+			<identifier>1088</identifier>
+			<annotation><![CDATA[With just a week left in the campaign, candidates for public office are pouring their money into advertising in an effort to sway the remaining undecided voters.  In this first of two reports, we focus on two campaigns where attack ads have been commonplace from the beginning: the race for lieutenant governor between Democrat Kenneth Corn and Republican Todd Lamb; and the campaign for and against State Question 744, which deals with funding for public education.  
+]]></annotation>
+			<trackNum>31</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Undecided Voters</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Undecided_Voters.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Undecided_Voters.jpg</image>
+			<identifier>1087</identifier>
+			<annotation><![CDATA[Large groups of likely voters in Oklahoma identify themselves as undecided in recent polling data.  Do undecided voters hold the key to the winners and losers on November 2nd.   
+]]></annotation>
+			<trackNum>30</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Novotny Kern Race</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Novotny_Kern_Race.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Novotny_Kern_Race.jpg</image>
+			<identifier>1078</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>29</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Debate Reaction</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Debate_React.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Debate_React.jpg</image>
+			<identifier>1074</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>28</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Campaign Finance</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Campaign_Finance.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Campaign_Finance.jpg</image>
+			<identifier>1068</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>27</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Campaign Signs</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Campaign_Signs.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Campaign_Signs.jpg</image>
+			<identifier>1062</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>26</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 You Tube</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Oklahoma_Votes_2010_You_Tube.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Oklahoma_Votes_2010_You_Tube.jpg</image>
+			<identifier>1043</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>25</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Political Spending</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Political_Spending.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Political_Spending.jpg</image>
+			<identifier>1042</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>24</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Ballot Process</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Ballot_Process.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Ballot_Process.jpg</image>
+			<identifier>1038</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>23</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 State Questions</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Oklahoma_Votes_2010_State_Questions.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Oklahoma_Votes_2010_State_Questions.jpg</image>
+			<identifier>1033</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>22</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Oklahoma Votes 2010 Candidate MOS</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Candidate_MOS.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Candidate_MOS.jpg</image>
+			<identifier>1029</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>21</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Oklahoma Votes 2010 AG ONR Extra</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_AG_ONR_Extra.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_AG_ONR_Extra.jpg</image>
+			<identifier>1028</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>11</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Oklahoma Votes 2010 AG Candidates</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_AG_Candidates.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_AG_Candidates.jpg</image>
+			<identifier>1027</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>10</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Lankford</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/OK_Votes_2010_Lankford.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/OK_Votes_2010_Lankford.jpg</image>
+			<identifier>1020</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>9</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>OK Votes 2010 Fifth District Race</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/5th_District_Race.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/5th_District_Race.jpg</image>
+			<identifier>994</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>8</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Angela Rosecrans presents John Sullivan</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/808_Rosecrans_Sullivan_915..flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/808_Rosecrans_Sullivan_915..jpg</image>
+			<identifier>877</identifier>
+			<annotation><![CDATA[Angela Rosecrans presents John Sullivan via Skype as he talks to his watch party  ]]></annotation>
+			<trackNum>7</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Lori Rasmussen interview Tom Guild</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/807_Rasmussen_Guild_908.Cop.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/807_Rasmussen_Guild_908.Cop.jpg</image>
+			<identifier>876</identifier>
+			<annotation><![CDATA[Lori Rasmussen interview Tom Guild at the watch party.]]></annotation>
+			<trackNum>6</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Michael Cross interviews Todd Lamb</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/805_Cross_Lamb_835.Copy.01.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/805_Cross_Lamb_835.Copy.01.jpg</image>
+			<identifier>875</identifier>
+			<annotation><![CDATA[Michael Cross interviews Todd Lamb and asks what he has been dealing with today to get ready for the vote tonight.]]></annotation>
+			<trackNum>5</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Cathy Tatom interviews Scott Pruitt</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/804_Tatom_Pruitt_828.Copy.0.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/804_Tatom_Pruitt_828.Copy.0.jpg</image>
+			<identifier>874</identifier>
+			<annotation><![CDATA[Cathy Tatom interviews Scott Pruitt and asks how the night is going for him as the numbers start to come in.]]></annotation>
+			<trackNum>4</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Oklahoma Votes 2010 ONR Extra Duffee</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/ONR_Extra_Duffee.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/ONR_Extra_Duffee.jpg</image>
+			<identifier>1021</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>4</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Cathy Tatom interviews Scott Olson</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/802_Tatom_Olson_734.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/802_Tatom_Olson_734.jpg</image>
+			<identifier>872</identifier>
+			<annotation><![CDATA[Cathy Tatom interviews Pastor Scott Olson and ask how he came to host the Broden for Governor watch party.]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Susan Miller interviews James Lankford</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/806_Miller_Lankford_845.Cop.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/806_Miller_Lankford_845.Cop.jpg</image>
+			<identifier>873</identifier>
+			<annotation><![CDATA[Susan Miller interviews James Lankford and asks how he feels about his chances.]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Lori Rasmussen interview Gill Broyles</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/803_Rasmussen_Broyles_755.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/803_Rasmussen_Broyles_755.jpg</image>
+			<identifier>871</identifier>
+			<annotation><![CDATA[Lori Rasmussen interview Drew Edmondson's Communications Director, Gill Broyles, and asks him to describe the mood as he waits for the Attorney General to arrive.]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Oklahoma Votes 2010 Forum ONR Extra</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Forum_ONR_Extra.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Forum_ONR_Extra.jpg</image>
+			<identifier>978</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma Votes 2010</title>
+			<ov:subtitle>Michael Cross interviews Ed Goeas</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Cross_Goeas_723.Copy.01.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Cross_Goeas_723.Copy.01.jpg</image>
+			<identifier>870</identifier>
+			<annotation><![CDATA[Michael Cross interviews political strategist, Ed Goeas, and asks him what Congressman, Mary Fallin was doing in Washington D.C.]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Oklahoma Votes 2010 Governor Forum</ov:subtitle>
+			<location>http://video.oeta.tv/onr/oklahoma_votes_2010/Governor_Forum.flv</location>
+			<image>http://video.oeta.tv/onr/oklahoma_votes_2010/_thumbs/Governor_Forum.jpg</image>
+			<identifier>977</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+	</trackList>
+</playlist>

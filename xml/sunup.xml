@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Sunup</title>
+	<creator>OETA</creator>
+	<annotation/>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Sunup Prairie Chicken</ov:subtitle>
+			<location>http://video.oeta.tv/onr/sunup/Lesser_Prairie_Chicken.flv</location>
+			<image>http://video.oeta.tv/onr/sunup/_thumbs/Lesser_Prairie_Chicken.jpg</image>
+			<identifier>1644</identifier>
+			<annotation><![CDATA[The crew from "Sunup" took us on a trip to northwest Oklahoma where nature enthusiasts studied the lesser prairie chicken.]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Farm Loan Program</ov:subtitle>
+			<location>http://video.oeta.tv/onr/sunup/Farm_Loan_Program.flv</location>
+			<image>http://video.oeta.tv/onr/sunup/_thumbs/Farm_Loan_Program.jpg</image>
+			<identifier>933</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+	</trackList>
+</playlist>

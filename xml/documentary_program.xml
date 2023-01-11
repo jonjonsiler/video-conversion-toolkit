@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Documentary Program</title>
+	<creator>OETA</creator>
+	<annotation></annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Oklahoma World War II</title>
+			<ov:subtitle>Oklahoma World War II Stories Documentary - Part 4</ov:subtitle>
+			<location>http://video.oeta.tv/okwwii/program/OKWWII_Stories_Documentary_Part_4_of_4.flv</location>
+			<image>http://video.oeta.tv/okwwii/program/_thumbs/Oklahoma_World_War_II_Stories_Documentary_Part_4.jpg</image>
+			<identifier>1217</identifier>
+			<annotation><![CDATA[OETA-The Oklahoma Network presents the personal, compelling and emotional stories of courage and sacrifice from Oklahomas World War II veterans. Part 4 of 4]]></annotation>
+			<trackNum>29</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Oklahoma World War II</title>
+			<ov:subtitle>Oklahoma World War II Stories Documentary - Part 3</ov:subtitle>
+			<location>http://video.oeta.tv/okwwii/program/OKWWII_Stories_Documentary_Part_3_of_4.flv</location>
+			<image>http://video.oeta.tv/okwwii/program/_thumbs/Oklahoma_World_War_II_Stories_Documentary_Part_3.jpg</image>
+			<identifier>1216</identifier>
+			<annotation><![CDATA[OETA-The Oklahoma Network presents the personal, compelling and emotional stories of courage and sacrifice from Oklahomas World War II veterans. Part 3 of 4]]></annotation>
+			<trackNum>28</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Oklahoma World War II</title>
+			<ov:subtitle>Oklahoma World War II Stories Documentary - Part 2</ov:subtitle>
+			<location>http://video.oeta.tv/okwwii/program/OKWWII_Stories_Documentary_Part_2_of_4.flv</location>
+			<image>http://video.oeta.tv/okwwii/program/_thumbs/Oklahoma_World_War_II_Stories_Documentary_Part_2.jpg</image>
+			<identifier>1215</identifier>
+			<annotation><![CDATA[OETA-The Oklahoma Network presents the personal, compelling and emotional stories of courage and sacrifice from Oklahomas World War II veterans. Part 2 of 4]]></annotation>
+			<trackNum>27</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Oklahoma World War II</title>
+			<ov:subtitle>Oklahoma World War II Stories Documentary - Part 1</ov:subtitle>
+			<location>http://video.oeta.tv/okwwii/program/OKWWII_Stories_Documentary_Part_1_of_4.flv</location>
+			<image>http://video.oeta.tv/okwwii/program/_thumbs/Oklahoma_World_War_II_Stories_Documentary_Part_1.jpg</image>
+			<identifier>1214</identifier>
+			<annotation><![CDATA[OETA-The Oklahoma Network presents the personal, compelling and emotional stories of courage and sacrifice from Oklahomas World War II veterans. Part 1 of 4]]></annotation>
+			<trackNum>26</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+	</trackList>
+</playlist>

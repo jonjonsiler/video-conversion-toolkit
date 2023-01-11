@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Featured Video</title>
+	<creator>OETA</creator>
+	<annotation></annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>OETA Honored with SPJ Awards</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/homepage/SPJ_Promo.flv</location>
+			<image>http://video.oeta.tv/homepage/_thumbs/SPJ_Promo.jpg</image>
+			<identifier>684</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>4</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>The Best of OETA</title>
+			<ov:subtitle>Local Programming</ov:subtitle>
+			<location>http://video.oeta.tv/homepage/The_Best.flv</location>
+			<image>http://video.oeta.tv/homepage/_thumbs/The_Best.jpg</image>
+			<identifier>671</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>My Source</title>
+			<ov:subtitle>Get Involved</ov:subtitle>
+			<location>http://video.oeta.tv/homepage/Mysource_Call_to_Action_Spot.flv</location>
+			<image>http://video.oeta.tv/homepage/_thumbs/Mysource_Call_to_Action_Spot.jpg</image>
+			<identifier>531</identifier>
+			<annotation><![CDATA[<p>From precious little ones learning the alphabet to curious minds of all ages discovering their passion, public television impacts all of our lives. That's why OETA - The Oklahoma Network is launching My Source, a new project that engages viewers like you from all across the state to help us communicate the value of OETA. Tell us how OETA is essential to you, online at oeta.tv Whether OETA is your source for inspiration, information, state news, arts, community connections, or making a safe place for children - we need to hear from you. Go to oeta.tv now and tell us why OETA is your source.<!--[CDATA[From precious little ones learning the alphabet to curious minds of all ages discovering their passion, public television impacts all of our lives. That's why OETA - The Oklahoma Network is launching My Source, a new project that engages viewers like you from all across the state to help us communicate the value of OETA. Tell us how OETA is essential to you, online at oeta.tv Whether OETA is your source for inspiration, information, state news, arts, community connections, or making a safe place for children - we need to hear from you. Go to oeta.tv now and tell us why OETA is your source.--></p>]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+	</trackList>
+</playlist>

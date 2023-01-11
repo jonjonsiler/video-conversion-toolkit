@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Stateline</title>
+	<creator>OETA</creator>
+	<annotation>Emmy Award-winning documentaries covering issues and people across the state.</annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Stateline 1204</title>
+			<ov:subtitle>Mister Military Mom</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1204.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1204.jpg</image>
+			<identifier>1162</identifier>
+			<annotation><![CDATA[Fathers shoulder the burdens of home and family alone while mothers are on military deployment.]]></annotation>
+			<trackNum>95</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1203</title>
+			<ov:subtitle>White Man's Road</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/s1203.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/s1203.jpg</image>
+			<identifier>982</identifier>
+			<annotation><![CDATA[The life of Quanah Parker]]></annotation>
+			<trackNum>94</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1202</title>
+			<ov:subtitle>Under Control</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/s1202.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/s1202.jpg</image>
+			<identifier>905</identifier>
+			<annotation><![CDATA["Under Control"]]></annotation>
+			<trackNum>93</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1201</title>
+			<ov:subtitle>What's Shakin'?</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/s1201.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/s1201.jpg</image>
+			<identifier>859</identifier>
+			<annotation><![CDATA[What's Shakin'?]]></annotation>
+			<trackNum>92</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1108</title>
+			<ov:subtitle>My War</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/S1108.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/S1108.jpg</image>
+			<identifier>819</identifier>
+			<annotation><![CDATA[My War]]></annotation>
+			<trackNum>91</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1107</title>
+			<ov:subtitle>Prohibition And Liquor Too</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/s1107.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/s1107.jpg</image>
+			<identifier>713</identifier>
+			<annotation><![CDATA[<p>Prohibition And Liquor Too</p>]]></annotation>
+			<trackNum>88</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1101</title>
+			<ov:subtitle>Over There</ov:subtitle>
+			<location></location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1101_H.jpg</image>
+			<identifier>326</identifier>
+			<annotation><![CDATA[Over There]]></annotation>
+			<trackNum>87</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1106</title>
+			<ov:subtitle>Secret Societies</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/S1106.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/S1106.jpg</image>
+			<identifier>721</identifier>
+			<annotation><![CDATA[Secret Societies]]></annotation>
+			<trackNum>83</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1105</title>
+			<ov:subtitle>The Edge of Crisis</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/Stateline1105.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/Stateline1105.jpg</image>
+			<identifier>609</identifier>
+			<annotation><![CDATA[The Edge of Crisis]]></annotation>
+			<trackNum>81</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1104</title>
+			<ov:subtitle>Behind The Curtain</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1104.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1104.jpg</image>
+			<identifier>548</identifier>
+			<annotation><![CDATA[Behind The Curtain]]></annotation>
+			<trackNum>80</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1103</title>
+			<ov:subtitle>Invisible Empire</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1103.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1103.jpg</image>
+			<identifier>491</identifier>
+			<annotation><![CDATA[Invisible Empire]]></annotation>
+			<trackNum>79</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1102</title>
+			<ov:subtitle>Are You Smarter Than A Ten-Year-Old?</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/s1102.flv</location>
+			<image>http://www.oeta.tv//images/stories/stateline/1002Title.jpg</image>
+			<identifier>460</identifier>
+			<annotation><![CDATA[Are You Smarter Than A Ten-Year-Old?]]></annotation>
+			<trackNum>78</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1101</title>
+			<ov:subtitle>Over There</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1101.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1101.jpg</image>
+			<identifier>380</identifier>
+			<annotation><![CDATA[Over There]]></annotation>
+			<trackNum>77</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1007</title>
+			<ov:subtitle>The People</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1007.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1007.jpg</image>
+			<identifier>200</identifier>
+			<annotation><![CDATA[The People]]></annotation>
+			<trackNum>76</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1005/1006</title>
+			<ov:subtitle>Television Pioneers (Parts 1 &amp; 2)</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1005_1006.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1005_1006.jpg</image>
+			<identifier>304</identifier>
+			<annotation><![CDATA[Television Pioneers]]></annotation>
+			<trackNum>75</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 1004</title>
+			<ov:subtitle>Shootin' Iron</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1004.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1004.jpg</image>
+			<identifier>202</identifier>
+			<annotation><![CDATA[Shootin&#039; Iron]]></annotation>
+			<trackNum>74</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1003</title>
+			<ov:subtitle>Up In Smoke</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1003.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1003.jpg</image>
+			<identifier>203</identifier>
+			<annotation><![CDATA[Up In Smoke]]></annotation>
+			<trackNum>73</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Stateline 1002</title>
+			<ov:subtitle>More Than Buildings</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1002.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1002.jpg</image>
+			<identifier>204</identifier>
+			<annotation><![CDATA[More Than Buildings]]></annotation>
+			<trackNum>72</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 1001</title>
+			<ov:subtitle>The Rolls</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/1001.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/1001.jpg</image>
+			<identifier>205</identifier>
+			<annotation><![CDATA[The Rolls]]></annotation>
+			<trackNum>71</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 908</title>
+			<ov:subtitle>The Cost of Green</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/908.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/908.jpg</image>
+			<identifier>206</identifier>
+			<annotation><![CDATA[The Cost of Green]]></annotation>
+			<trackNum>70</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 907</title>
+			<ov:subtitle>Meth in McCurtain County</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/907.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/907.jpg</image>
+			<identifier>207</identifier>
+			<annotation><![CDATA[Meth in McCurtain County]]></annotation>
+			<trackNum>69</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 906</title>
+			<ov:subtitle>Ready for Life</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/906.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/906.jpg</image>
+			<identifier>208</identifier>
+			<annotation><![CDATA[Ready for Life]]></annotation>
+			<trackNum>68</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 905</title>
+			<ov:subtitle>Chords of Memory</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/905.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/905.jpg</image>
+			<identifier>210</identifier>
+			<annotation><![CDATA[Chords of Memory]]></annotation>
+			<trackNum>67</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 904</title>
+			<ov:subtitle>The Payoff</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/904.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/904.jpg</image>
+			<identifier>211</identifier>
+			<annotation><![CDATA[The Payoff]]></annotation>
+			<trackNum>66</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 903</title>
+			<ov:subtitle>The People's House</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/903.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/903.jpg</image>
+			<identifier>212</identifier>
+			<annotation><![CDATA[The People&#039;s House]]></annotation>
+			<trackNum>65</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 902</title>
+			<ov:subtitle>The New Oil</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/902.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/902.jpg</image>
+			<identifier>213</identifier>
+			<annotation><![CDATA[The New Oil]]></annotation>
+			<trackNum>64</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 901</title>
+			<ov:subtitle>Roilty</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/901.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/901.jpg</image>
+			<identifier>214</identifier>
+			<annotation><![CDATA[Roilty]]></annotation>
+			<trackNum>63</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 809</title>
+			<ov:subtitle>Since Then</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/809.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/809.jpg</image>
+			<identifier>215</identifier>
+			<annotation><![CDATA[Since Then]]></annotation>
+			<trackNum>62</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 808</title>
+			<ov:subtitle>Hope and Fear</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/808.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/808.jpg</image>
+			<identifier>216</identifier>
+			<annotation><![CDATA[Hope and Fear]]></annotation>
+			<trackNum>61</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 807</title>
+			<ov:subtitle>On The Edge</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/807.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/807.jpg</image>
+			<identifier>217</identifier>
+			<annotation><![CDATA[On The Edge]]></annotation>
+			<trackNum>60</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 806</title>
+			<ov:subtitle>Let Me Live</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/806.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/806.jpg</image>
+			<identifier>218</identifier>
+			<annotation><![CDATA[Let Me Live]]></annotation>
+			<trackNum>59</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 805</title>
+			<ov:subtitle>Dead or Alive</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/805.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/805.jpg</image>
+			<identifier>219</identifier>
+			<annotation><![CDATA[Dead or Alive]]></annotation>
+			<trackNum>58</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 804</title>
+			<ov:subtitle>Obesity Epidemic</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/804.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/804.jpg</image>
+			<identifier>221</identifier>
+			<annotation><![CDATA[Obesity Epidemic]]></annotation>
+			<trackNum>57</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 803</title>
+			<ov:subtitle>Uncorked</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/803.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/803.jpg</image>
+			<identifier>222</identifier>
+			<annotation><![CDATA[Uncorked]]></annotation>
+			<trackNum>56</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 802</title>
+			<ov:subtitle>Buffalo Soldiers</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/802.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/802.jpg</image>
+			<identifier>223</identifier>
+			<annotation><![CDATA[Buffalo Soldiers]]></annotation>
+			<trackNum>55</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 801</title>
+			<ov:subtitle>You CAN Get There From Here</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/801.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/801.jpg</image>
+			<identifier>224</identifier>
+			<annotation><![CDATA[You CAN Get There From Here]]></annotation>
+			<trackNum>54</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 709</title>
+			<ov:subtitle>Natural Treasures</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/709.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/709.jpg</image>
+			<identifier>227</identifier>
+			<annotation><![CDATA[Natural Treasures]]></annotation>
+			<trackNum>53</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 708</title>
+			<ov:subtitle>Silence Speaks</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/708.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/708.jpg</image>
+			<identifier>228</identifier>
+			<annotation><![CDATA[Silence Speaks]]></annotation>
+			<trackNum>52</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 707</title>
+			<ov:subtitle>Operation Homefront</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/707.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/707.jpg</image>
+			<identifier>229</identifier>
+			<annotation><![CDATA[Operation Homefront]]></annotation>
+			<trackNum>51</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 706</title>
+			<ov:subtitle>Oklahoma Ink</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/706.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/706.jpg</image>
+			<identifier>230</identifier>
+			<annotation><![CDATA[Oklahoma Ink]]></annotation>
+			<trackNum>50</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 705</title>
+			<ov:subtitle>Thunderbirds</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/705.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/705.jpg</image>
+			<identifier>220</identifier>
+			<annotation><![CDATA[Thunderbirds]]></annotation>
+			<trackNum>49</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 704</title>
+			<ov:subtitle>Making History</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/704.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/704.jpg</image>
+			<identifier>334</identifier>
+			<annotation><![CDATA[Making History]]></annotation>
+			<trackNum>48</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 703</title>
+			<ov:subtitle>Things That Go Bump in Oklahoma</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/703.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/703.jpg</image>
+			<identifier>335</identifier>
+			<annotation><![CDATA[Things That Go Bump in Oklahoma]]></annotation>
+			<trackNum>47</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 702</title>
+			<ov:subtitle>Due Vigilance</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/702.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/702.jpg</image>
+			<identifier>231</identifier>
+			<annotation><![CDATA[Due Vigilance]]></annotation>
+			<trackNum>46</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 701</title>
+			<ov:subtitle>Road Trip</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/701.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/701.jpg</image>
+			<identifier>232</identifier>
+			<annotation><![CDATA[Road Trip]]></annotation>
+			<trackNum>45</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 608</title>
+			<ov:subtitle>Unresolved</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/608.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/608.jpg</image>
+			<identifier>233</identifier>
+			<annotation><![CDATA[Unresolved]]></annotation>
+			<trackNum>44</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 607</title>
+			<ov:subtitle>A Chance To Change</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/607.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/607.jpg</image>
+			<identifier>234</identifier>
+			<annotation><![CDATA[A Chance To Change]]></annotation>
+			<trackNum>43</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 606</title>
+			<ov:subtitle>9:02</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/606.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/606.jpg</image>
+			<identifier>235</identifier>
+			<annotation><![CDATA[9:02]]></annotation>
+			<trackNum>42</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 605</title>
+			<ov:subtitle>Secret Agencies</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/605.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/605.jpg</image>
+			<identifier>236</identifier>
+			<annotation><![CDATA[Secret Agencies]]></annotation>
+			<trackNum>41</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 604</title>
+			<ov:subtitle>A Normal Life</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/604.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/604.jpg</image>
+			<identifier>237</identifier>
+			<annotation><![CDATA[A Normal Life]]></annotation>
+			<trackNum>40</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 603</title>
+			<ov:subtitle>Graybar Hotel</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/603.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/603.jpg</image>
+			<identifier>238</identifier>
+			<annotation><![CDATA[Graybar Hotel]]></annotation>
+			<trackNum>39</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 601</title>
+			<ov:subtitle>Telephone Tag</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/601.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/601.jpg</image>
+			<identifier>336</identifier>
+			<annotation><![CDATA[Telephone Tag]]></annotation>
+			<trackNum>38</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 602</title>
+			<ov:subtitle>Riding The Rails</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/602.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/602.jpg</image>
+			<identifier>239</identifier>
+			<annotation><![CDATA[Riding The Rails]]></annotation>
+			<trackNum>37</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 508</title>
+			<ov:subtitle>The Other Side of the Creek</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/508.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/508.jpg</image>
+			<identifier>240</identifier>
+			<annotation><![CDATA[The Other Side of the Creek]]></annotation>
+			<trackNum>36</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 507</title>
+			<ov:subtitle>Plains, Cranes, and Drilling Fields</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/507.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/507.jpg</image>
+			<identifier>339</identifier>
+			<annotation><![CDATA[Plains, Cranes, and Drilling Fields]]></annotation>
+			<trackNum>35</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 506</title>
+			<ov:subtitle>What's at Steak</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/506.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/506.jpg</image>
+			<identifier>241</identifier>
+			<annotation><![CDATA[What&#039;s at Steak]]></annotation>
+			<trackNum>34</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 505</title>
+			<ov:subtitle>Measure to Measure</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/505.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/505.jpg</image>
+			<identifier>242</identifier>
+			<annotation><![CDATA[Measure to Measure]]></annotation>
+			<trackNum>33</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 504</title>
+			<ov:subtitle>Address Unknown</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/504.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/504.jpg</image>
+			<identifier>243</identifier>
+			<annotation><![CDATA[Address Unknown]]></annotation>
+			<trackNum>32</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 503</title>
+			<ov:subtitle>Faith of Our Neighbors III</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/503.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/503.jpg</image>
+			<identifier>344</identifier>
+			<annotation><![CDATA[Faith of Our Neighbors III]]></annotation>
+			<trackNum>31</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 502</title>
+			<ov:subtitle>Missing Pieces</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/502.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/502.jpg</image>
+			<identifier>342</identifier>
+			<annotation><![CDATA[Missing Pieces]]></annotation>
+			<trackNum>30</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 501</title>
+			<ov:subtitle>Time is Money</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/501.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/501.jpg</image>
+			<identifier>345</identifier>
+			<annotation><![CDATA[Time is Money]]></annotation>
+			<trackNum>29</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 408</title>
+			<ov:subtitle>Who Cares?</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/408.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/408.jpg</image>
+			<identifier>347</identifier>
+			<annotation><![CDATA[Who Cares?]]></annotation>
+			<trackNum>28</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 407</title>
+			<ov:subtitle>Disappearing Ink</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/407.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/407.jpg</image>
+			<identifier>244</identifier>
+			<annotation><![CDATA[Disappearing Ink]]></annotation>
+			<trackNum>27</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 406</title>
+			<ov:subtitle>What's New?</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/406.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/406.jpg</image>
+			<identifier>245</identifier>
+			<annotation><![CDATA[What&#039;s New?]]></annotation>
+			<trackNum>26</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 405</title>
+			<ov:subtitle>Death and Taxes</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/405.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/405.jpg</image>
+			<identifier>348</identifier>
+			<annotation><![CDATA[Death and Taxes]]></annotation>
+			<trackNum>25</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 404</title>
+			<ov:subtitle>Oklahoma Rising</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/404.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/404.jpg</image>
+			<identifier>246</identifier>
+			<annotation><![CDATA[Oklahoma Rising]]></annotation>
+			<trackNum>24</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 403</title>
+			<ov:subtitle>Okie Ivy</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/403.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/403.jpg</image>
+			<identifier>351</identifier>
+			<annotation><![CDATA[Okie Ivy]]></annotation>
+			<trackNum>23</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 402</title>
+			<ov:subtitle>Red Threat</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/402.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/402.jpg</image>
+			<identifier>247</identifier>
+			<annotation><![CDATA[Red Threat]]></annotation>
+			<trackNum>22</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 401</title>
+			<ov:subtitle>Child Care Challenge</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/401.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/401.jpg</image>
+			<identifier>352</identifier>
+			<annotation><![CDATA[Child Care Challenge]]></annotation>
+			<trackNum>21</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 308</title>
+			<ov:subtitle>Fields of Dreams</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/308.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/308.jpg</image>
+			<identifier>248</identifier>
+			<annotation><![CDATA[Fields of Dreams]]></annotation>
+			<trackNum>20</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 307</title>
+			<ov:subtitle>Behind the Badge</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/307.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/307.jpg</image>
+			<identifier>354</identifier>
+			<annotation><![CDATA[Behind the Badge]]></annotation>
+			<trackNum>19</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 306</title>
+			<ov:subtitle>Anatomy of Alternatives</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/306.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/306.jpg</image>
+			<identifier>362</identifier>
+			<annotation><![CDATA[Anatomy of Alternatives]]></annotation>
+			<trackNum>18</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 305</title>
+			<ov:subtitle>Lights Out</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/305.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/305.jpg</image>
+			<identifier>249</identifier>
+			<annotation><![CDATA[Lights Out]]></annotation>
+			<trackNum>17</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 302</title>
+			<ov:subtitle>Right or Wrong</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/302.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/302.jpg</image>
+			<identifier>363</identifier>
+			<annotation><![CDATA[Right or Wrong]]></annotation>
+			<trackNum>16</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 301</title>
+			<ov:subtitle>Sites Unseen</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/301.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/301.jpg</image>
+			<identifier>250</identifier>
+			<annotation><![CDATA[Sites Unseen]]></annotation>
+			<trackNum>15</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 206</title>
+			<ov:subtitle>Games People Play</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/206.flv</location>
+			<image>/images/stories/stateline/206.jpg</image>
+			<identifier>366</identifier>
+			<annotation><![CDATA[Games People Play]]></annotation>
+			<trackNum>14</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 205</title>
+			<ov:subtitle>What TV Will Be</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/205.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/205.jpg</image>
+			<identifier>251</identifier>
+			<annotation><![CDATA[What TV Will Be]]></annotation>
+			<trackNum>13</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 204</title>
+			<ov:subtitle>Faith of Our Neighbors</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/204.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/204.jpg</image>
+			<identifier>252</identifier>
+			<annotation><![CDATA[Faith of Our Neighbors]]></annotation>
+			<trackNum>12</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 203</title>
+			<ov:subtitle>Last Resort</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/203.flv</location>
+			<image>/images/stories/stateline/203.jpg</image>
+			<identifier>373</identifier>
+			<annotation><![CDATA[Last Resort]]></annotation>
+			<trackNum>11</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 202</title>
+			<ov:subtitle>Golden Girls</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/202.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/202.jpg</image>
+			<identifier>370</identifier>
+			<annotation><![CDATA[Golden Girls]]></annotation>
+			<trackNum>10</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 201</title>
+			<ov:subtitle>Attitude is Everything</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/201.flv</location>
+			<image>/images/stories/stateline/201.jpg</image>
+			<identifier>372</identifier>
+			<annotation><![CDATA[Attitude is Everything]]></annotation>
+			<trackNum>9</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 108</title>
+			<ov:subtitle>Eyes on the Sky</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/108.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/108.jpg</image>
+			<identifier>254</identifier>
+			<annotation><![CDATA[Eyes on the Sky]]></annotation>
+			<trackNum>8</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 107</title>
+			<ov:subtitle>American Pie</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/107.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/107.jpg</image>
+			<identifier>255</identifier>
+			<annotation><![CDATA[American Pie]]></annotation>
+			<trackNum>7</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 106</title>
+			<ov:subtitle>When the Vow Breaks</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/106.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/106.jpg</image>
+			<identifier>256</identifier>
+			<annotation><![CDATA[When the Vow Breaks]]></annotation>
+			<trackNum>6</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 105</title>
+			<ov:subtitle>Living Longer</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/105.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/105.jpg</image>
+			<identifier>257</identifier>
+			<annotation><![CDATA[Living Longer]]></annotation>
+			<trackNum>5</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 104</title>
+			<ov:subtitle>It's Only a Game</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/104.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/104.jpg</image>
+			<identifier>258</identifier>
+			<annotation><![CDATA[It&#039;s Only a Game]]></annotation>
+			<trackNum>4</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 103</title>
+			<ov:subtitle>Emergency Measures</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/103.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/103.jpg</image>
+			<identifier>375</identifier>
+			<annotation><![CDATA[Emergency Measures]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 102</title>
+			<ov:subtitle>Amtrak's Back</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/102.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/102.jpg</image>
+			<identifier>261</identifier>
+			<annotation><![CDATA[Amtrak&#039;s Back]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Stateline 101</title>
+			<ov:subtitle>Beyond Black Gold</ov:subtitle>
+			<location>http://video.oeta.tv/stateline/101.flv</location>
+			<image>http://video.oeta.tv/stateline/_thumbs/101.jpg</image>
+			<identifier>265</identifier>
+			<annotation><![CDATA[Beyond Black Gold]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+	</trackList>
+</playlist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Tulsa Times</title>
+	<creator>OETA</creator>
+	<annotation>OETA's weekly roundup of news and culture covering the Northeast part of the state. This program is currently on hiatus.</annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Tulsa Times 09-26-2009</title>
+			<ov:subtitle>Oklahoma Music Hall of Fame</ov:subtitle>
+			<location>http://video.oeta.tv/tulsa_times/VTS_01_1.flv</location>
+			<image>http://video.oeta.tv/tulsa_times/_thumbs/VTS_01_1.jpg</image>
+			<identifier>765</identifier>
+			<annotation><![CDATA[This 30-minute news magazine program dedicated the entire show to the Oklahoma Music Hall of Fame induction ceremony and concert.  Newcomer country-music star, Carrie Underwood lit up the stage as she performed after being inducted into the Oklahoma Music Hall of Fame.  Joining her in the induction ceremony and concert were Rocky Frisco and Ramona Reed.
+The program also gave a behind-the-scenes look at a news conference that was held before the event with the three inductees.  One of Underwood’s former music instructors was also there.
+It was hosted by Angela Rosecrans from the Oklahoma Music Hall of Fame and Museum in Muskogee.
+
+]]></annotation>
+			<trackNum>4</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>From Silence to Sound</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/tulsa_times/Silence_2_Sound.flv</location>
+			<image>http://video.oeta.tv/tulsa_times/_thumbs/Silence_2_Sound.jpg</image>
+			<identifier>308</identifier>
+			<annotation><![CDATA[a story by Cathy Tatom and Edwin Wilson on OETA's ONR.]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Rader</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/tulsa_times/Rader.flv</location>
+			<image>http://video.oeta.tv/tulsa_times/_thumbs/Rader.jpg</image>
+			<identifier>414</identifier>
+			<annotation><![CDATA[Danger]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Animal Shelter</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/tulsa_times/ANIMAL_SHELTER-PKG.Transcod.flv</location>
+			<image>http://video.oeta.tv/tulsa_times/_thumbs/ANIMAL_SHELTER-PKG.Transcod.jpg</image>
+			<identifier>189</identifier>
+			<annotation><![CDATA[Here is a video of the Animal Shelter]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+	</trackList>
+</playlist>

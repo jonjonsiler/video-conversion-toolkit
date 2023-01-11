@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Going Green</title>
+	<creator>OETA</creator>
+	<annotation>Oklahoma News Report Going Green Feature Category</annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Recycling</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Recycling.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Recycling.jpg</image>
+			<identifier>1661</identifier>
+			<annotation><![CDATA[Between Thanksgiving and New Year’s Day, the EPA estimates that Americans generate two billion pounds of extra garbage. This year, a coalition of groups is working hard to keep that extra trash out of landfills. 
+]]></annotation>
+			<trackNum>44</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Farm Efficiency</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Farm_Efficiency.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Farm_Efficiency.jpg</image>
+			<identifier>1624</identifier>
+			<annotation><![CDATA[During this economic downturn, farmers are looking to improve their efficiency and reduce costs. At the Tulsa Farm Show, thousands of farmers from across Oklahoma and surrounding states learned how to find sustainable and energy-efficient ways to turn their farms into “green” operations.
+
+ 
+
+ 
+]]></annotation>
+			<trackNum>43</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Christmas Lights</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Christmas_Lights.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Christmas_Lights.jpg</image>
+			<identifier>1578</identifier>
+			<annotation><![CDATA[LED lights are the hottest trend in holiday decorations. The lights are environmentally-friendly, and they use much less energy.
+]]></annotation>
+			<trackNum>42</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Energy Rebates</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Energy_Rebates.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Energy_Rebates.jpg</image>
+			<identifier>1571</identifier>
+			<annotation><![CDATA[Schools and municipalities are looking for ways to shrink their energy bills. Some of them are getting help from a power company.
+]]></annotation>
+			<trackNum>41</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Owasso Trees</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Owasso_Trees.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Owasso_Trees.jpg</image>
+			<identifier>1564</identifier>
+			<annotation><![CDATA[For many families, having the smell of a freshly-cut Christmas tree makes the holidays extra special. But actually picking out the right tree and cutting it yourself can create a family tradition for a lifetime.
+]]></annotation>
+			<trackNum>40</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Tulsa Sustainability</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Tulsa_Sustainability.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Tulsa_Sustainability.jpg</image>
+			<identifier>1522</identifier>
+			<annotation><![CDATA[Changes are underway in Tulsa as part of that city's sustainability efforts. Some changes are simple, such as flipping a switch to cut energy use, while other efforts require retrofitting some businesses in order to use less energy. 
+]]></annotation>
+			<trackNum>39</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Organic Burial</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Organic_Burial.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Organic_Burial.jpg</image>
+			<identifier>1143</identifier>
+			<annotation><![CDATA[For those who are environmentally conscious, there's a popular way to "go green" when it comes to the end of life. Payne County will soon have the state's first "green burial" cemetery.  ]]></annotation>
+			<trackNum>38</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Kipp Middle School</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Kipp_Middle_School.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Kipp_Middle_School.jpg</image>
+			<identifier>1125</identifier>
+			<annotation><![CDATA[Students at Kipp Middle School in Tulsa get life lessons by planting trees, creating rain gardens and learning how to “go green”. 
+]]></annotation>
+			<trackNum>37</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Ask This Old House</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Ask_This_Old_House.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Ask_This_Old_House.jpg</image>
+			<identifier>1082</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>36</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Going Green Habitat</ov:subtitle>
+			<location>http://video.oeta.tv/onr/gogreen/Going_Green_Habitat.flv</location>
+			<image>http://video.oeta.tv/onr/gogreen/_thumbs/Going_Green_Habitat.jpg</image>
+			<identifier>1045</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+	</trackList>
+</playlist>

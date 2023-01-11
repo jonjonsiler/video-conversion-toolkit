@@ -1,22 +1,107 @@
 #! /usr/bin/php5 -q
 <?php
-include_once("./configure.php");
 //session_start();
 //this file will be run @ some point durring the file compression action
 //this file is to look @ the files_uploaded table for files submitted today and
 //insert the RSS tags / data needed by system playlist xml files and iTunes / RSS feeds
-
+include_once('./configure.php');
 exec('ps w -C RUNME_ENCODE.php --no-heading',$process);
 if (count($process) > 1 ){
 	echo "An encode process is currently running. I will die now and try again later...\n";
 	die();
 }
 	
-$appRoot = "/var/www/vidtool/";
+$appRoot = __DIR__;
+$err_log='';
+require_once "controllers/db.class.php";
+
+function convertffmpeg($file) 
+{
+	global $err_log, $db, $appRoot;
+	$err_file=fopen($appRoot."/archive/logfile.txt", "w+");
+	$videopath = $appRoot."/files/";
+	$filepath = $videopath.$file->filename;
+	$categorypath = $videopath.$file->folder;
+
+	// Create the needed folders if they dont exist
+	if(!is_dir($categorypath)){
+		mkdir($categorypath, 0777);
+	}
+	if(!is_dir($categorypath."/_thumbs")){
+		mkdir($categorypath."/_thumbs", 0777);
+	}
+	// Calculate total seconds contained in the $thumbnail_time var
+	$thumb_min = date("i",strtotime($file->thumbnail_time));
+	$thumb_sec = date("s",strtotime($file->thumbnail_time));
+	$totalThumbSec = (($thumb_min * 60) + $thumb_sec);
+	// Set size parameters
+	$size = ($file->aspect == "16x9")?"512x288":"320x240";
+	$podsize = ($file->aspect == "16x9")?"640x360":"640x480";
+	$xpodsize = ($file->aspect == "16x9")?"16:9":"4:3";
+
+	//For FFmpeg all progress is monitored through stderr so by default we want to redirect to stdout
+	// Create an m4v(H.264) video file for use in a video podcast
+	mysql_unbuffered_query("UPDATE `files_uploaded` SET `completed` = '2' WHERE `id` = ".$file->id.";", $db->connection);
+	echo "encoding h.264...";
+	exec("/usr/local/bin/ffmpeg -i ".$filepath." -an -pass 1 -s ".$podsize.
+		 " -vcodec libx264 -vpre fastfirstpass -vpre ipod640 -b 1500k -bt 1500k -aspect ".$xpodsize." -threads 0 -f ipod -y /dev/null 2>&1 &&".
+		/* Second pass */		 
+		 "/usr/local/bin/ffmpeg -i ".$filepath." -pass 2 -acodec libfaac -ab 128k -ac 2 -vcodec libx264 -vpre hq -vpre ipod640 -b 1500k -bt 1500k -s ".$podsize.
+		 " -aspect ".$xpodsize." -threads 0 -f ipod -async 1 -y ".$categorypath."/".$file->base.".m4v 2>&1", $error_array);
+	//Check to see if a MPEG4 file was created
+	if(!file_exists($categorypath."/".$file->base.".m4v")) {
+		mysql_unbuffered_query("UPDATE `files_uploaded` SET `completed` = '0' WHERE `id` = ".$file->id.";", $db->connection);
+		$err_log=implode("\n",$error_array);
+		fwrite($err_file, $err_log);
+		fclose($err_file);
+		return 4;
+	}
+
+	// Create an flv file if it doesn't exist otherwise upload the flv file.
+	mysql_unbuffered_query("UPDATE `files_uploaded` SET `completed` = '3' WHERE `id` = ".$file->id.";", $db->connection);
+	if (pathinfo($file->filename,PATHINFO_EXTENSION)=="flv") {
+		echo "copying flv...";
+		copy($filepath,$categorypath."/".$file->filename);
+	} else {
+		echo "encoding flv...";
+		exec("/usr/local/bin/ffmpeg -i ".$filepath." -s ".$size." -ar 22050 -b 550k -async 1 -y -acodec libmp3lame -vcodec flv ".$categorypath."/".$file->base.".flv 2>&1", $error_array);
+	}
+	// 	Check to see if the flv was created
+	if(!file_exists($categorypath."/".$file->base.".flv")) {
+		$err_log=implode("\n",$error_array);
+		fwrite($err_file, $err_log);
+		fclose($err_file);
+		return 2;	
+	}
+
+
+	// Create an Audio file for a Audio Podcast Feed
+	mysql_unbuffered_query("UPDATE `files_uploaded` SET `completed` = '4' WHERE `id` = ".$file->id.";", $db->connection);
+	echo "encoding audio...";
+	exec("/usr/local/bin/ffmpeg -i ".$filepath." -ar 44100 -ab 96k -y -acodec libmp3lame ".$categorypath."/".$file->base.".mp3 2>&1", $error_array);
+	// Create the Thumbnail for Video
+	echo "creating thumbnail...";
+	exec("/usr/local/bin/ffmpeg -itsoffset -".$totalThumbSec."  -i ".$filepath." -s ".$size." -vcodec mjpeg -vframes 1 -an -f rawvideo -y ".$categorypath."/_thumbs/".$file->base.".jpg 2>&1", $error_array);
+	// Check to see if thumbnail and audio file have been created
+	if(!file_exists($categorypath."/_thumbs/".$file->base.".jpg") || !file_exists($categorypath."/".$file->base.".mp3")){
+		$err_log=implode("\n",$error_array);
+		fwrite($err_file, $err_log);
+		fclose($err_file);
+		return 3;
+	}
+
+	//If all steps completed and filecheck finds files then update the database as completed and return true
+	mysql_unbuffered_query("UPDATE `files_uploaded` SET `completed` = '1' WHERE `id` = ".$file->id.";", $db->connection);
+	echo "\nDone! \n\n";
+	fclose($err_file);
+	return true;
+}
+
 
 function scpUpload($filepath)
 {
-	$source_file = (stristr($filepath,".xml")!==FALSE)?"/var/www/vidtool/xml/".$filepath:"/var/www/vidtool/files/".$filepath;
+	global $appRoot;
+	$source_file = (stristr($filepath,".xml")!==FALSE)?$appRoot."/xml/".$filepath:$appRoot."/files/".$filepath;
 	if (file_exists($source_file)){
 		$connection = ssh2_connect("");
 	} else{
@@ -27,8 +112,9 @@ function scpUpload($filepath)
 
 function ftpUpload($filepath)
 {
+	global $appRoot;
 	//this should be updated with an scp function?
-	$source_file = (stristr($filepath,".xml")!==FALSE)?"/var/www/vidtool/xml/".$filepath:"/var/www/vidtool/files/".$filepath;
+	$source_file = (stristr($filepath,".xml")!==FALSE)?$appRoot."/xml/".$filepath:$appRoot."/files/".$filepath;
 	if (file_exists($source_file)){
 		$ftp_server = FTP_HOST;
 		$ftp_user_name = FTP_USER;
@@ -91,13 +177,13 @@ function addToFeed(&$file)
 	$rootloc = "http://video.oeta.tv/".$file->folder."/".$file->base;
 	$thumb = "http://video.oeta.tv/".$file->folder."/_thumbs/".$file->base.".jpg";
 	$query = "INSERT INTO feed ".
-			 "(location, mp4location, mp3location, image, title, subtitle, creator, catid, active, front, submit_date, original_broadcast_date, aspect,description, ordering) ".
-			 "VALUES ('".$rootloc.".flv','".$rootloc.".m4v','".$rootloc.".mp3', '".$thumb."','".cleanText($file->title)."','".cleanText($file->subtitle)."','".cleanText($file->creator)."', ".$file->categoryid.",".(int)$file->activate.",".(int)$file->front.",'".date("Y-m-d H:i:s")."','".date($file->orig_broadcast_date)."','".$l_aspect."','".cleanText($file->description)."', ".$ordering.")";
+			 "(location, mp4location, mp3location, image, title, subtitle, creator, catid, active, front, submit_date, original_broadcast_date, aspect,description, ordering, duration) ".
+			 "VALUES ('".$rootloc.".flv','".$rootloc.".m4v','".$rootloc.".mp3', '".$thumb."','".cleanText($file->title)."','".cleanText($file->subtitle)."','".cleanText($file->creator)."', ".$file->categoryid.",".(int)$file->activate.",".(int)$file->front.",'".date("Y-m-d H:i:s")."','".date($file->orig_broadcast_date)."','".$l_aspect."','".cleanText($file->description)."', ".$ordering.",".$file->duration.")";
 	$result = mysql_unbuffered_query($query, $db->connection) ;
 	if ($result) {
 		$file->id = mysql_insert_id($db->connection);
 		if ($file->topics !='') {
-			foreach (@explode(":",$file->topics) as $topic_id){
+			foreach (@explode(":",$file->topics) as $topic_id){ //this component needs to also store the parent ids so that life will be much easier searching
 				mysql_unbuffered_query("INSERT INTO video_topical (`video_id`, `topic_id`) VALUES (".$file->id.",".$topic_id.")", $db->connection);
 			}
 		}
@@ -132,7 +218,7 @@ function runXML($db)
 	mysql_free_result($result_cat);
 
 	foreach($catNums as $catID=>$catName){
-		if(file_exists($appRoot."xml/".$catName.".xml")) unlink($appRoot."xml/".$catName.".xml");
+		if(file_exists($appRoot."/xml/".$catName.".xml")) unlink($appRoot."/xml/".$catName.".xml");
 		if (!writeXML($catID,$db)) {
 			$msg = "(writeXML) *** Unable to Create XML file for category ".$catName.". This is probably a permissions issue\n";
 			echo $msg;
@@ -148,6 +234,26 @@ function runXML($db)
 	return true;
 }
 
+function getDuration(&$file) {
+	global $appRoot;
+	$fn=$appRoot."/files/".$file->folder."/".$file->base.".mp3";
+	$seconds = 0;
+	ob_start();
+	//$whereis ffmpeg: change with /usr/local/bin/ffmpeg
+	passthru("/usr/local/bin/ffmpeg -i ".$fn." 2>&1");
+	$duration = ob_get_contents();
+	ob_end_clean();
+	$search='/Duration: (.*?)[.]/';
+	$duration=preg_match($search, $duration, $matches, PREG_OFFSET_CAPTURE);
+	if ($matches) {
+		$duration = $matches[1][0];
+		//i suppose that our video hasn't duration of a day+ :
+		list($hours, $mins, $secs) = explode(':', $duration);
+		$seconds = ((int)$hours * 3600) + ((int)$mins * 60) + (int)$secs;
+	}
+
+	return $seconds;
+}
 
 function writeXML($catid,$db)
 {
@@ -160,7 +266,7 @@ function writeXML($catid,$db)
 	if (mysql_num_rows($feedresult) > 0) {
 		$catDetails = mysql_fetch_object($feedresult);
 		$categoryName = $catDetails->category;
-		$xmlfile=$appRoot."xml/".$categoryName.".xml";
+		$xmlfile=$appRoot."/xml/".$categoryName.".xml";
 		if(is_file($xmlfile)){
 			unlink($xmlfile);
 		}
@@ -221,20 +327,15 @@ function writeXML($catid,$db)
 
 
 //connect to the database
-$config= array(
-	'server'	=> REP_HOST . ":" .  REP_PORT,
-	'user'		=> REP_USER,
-	'pass'		=> REP_PASS,
-	'database'	=> REP_DATABASE
-);
-require_once ($appRoot."includes/DBManager.class.php");
-$db = new Connection();
-$db->DbConnect($config['database']);
+include_once($appRoot."/includes/config.inc.php");
+require_once ($appRoot."/includes/DBManager.class.php");
+$db = new DBManager($config->server, $config->user, $config->pass, $config->database);
+$db->DbConnect($config->database);
 
 //create array holding new submitted files
 $query = "SELECT f.*, c.id as cid, c.category, c.parent, c.ctitle, c.annotation, c.folder, c.creator as ccreator, c.NOLA ".
 		 "FROM files_uploaded AS f, categories AS c ".
-		 "WHERE f.categoryid = c.id AND f.completed = 0";
+		 "WHERE f.categoryid = c.id AND f.completed = 0 ORDER BY f.id";
 $result = mysql_query($query, $db->connection);
 
 if (!$result) {
@@ -252,13 +353,13 @@ if (!$result) {
 			$msg = "(convertffmpeg) *** ffmpeg encode failure";
 			switch ($ffmpeg_result) {
 				case 2:
-					$msg .= "\n"."<p>There was a problem encoding the flash video file (flv). A log file was created at \"/var/www/vidtool/archive/logfile.txt\"</p>";
+					$msg .= "\n"."<p>There was a problem encoding the flash video file (flv). A log file was created at \"".$appRoot."/archive/logfile.txt\"</p>";
 					break;
 				case 3:
-					$msg .= "\n"."<p>There was a problem encoding the thumbnail file (jpg). A log file was created at \"/var/www/vidtool/archive/logfile.txt\"</p>";
+					$msg .= "\n"."<p>There was a problem encoding the thumbnail file (jpg). A log file was created at \"".$appRoot."/archive/logfile.txt\"</p>";
 					break;
 				case 4:
-					$msg .= "\n"."<p>There was a problem encoding the mp4 video file (m4v). A log file was created at \"/var/www/vidtool/archive/logfile.txt\"</p>";
+					$msg .= "\n"."<p>There was a problem encoding the mp4 video file (m4v). A log file was created at \"".$appRoot."/archive/logfile.txt\"</p>";
 					break;
 				default:
 					$msg .= "\n"."<p>There was an undefined error which occurred with ffmpeg. Please check the logs for more details.</p>";
@@ -285,33 +386,28 @@ if (!$result) {
 			break;
 		} else { 
 			//if no other errors ----> add to the feed table
+			$file->duration = getDuration($file);
 			if(!addToFeed(&$file)){
 				$ErrorCollector .= "(addToFeed) *** Feed Entry not added to `feed table`:".$file->category." \n";
 				mailAdmin($ErrorCollector);
 				echo "Errors occurred: ".$ErrorCollector;
 			}
 			//move encoded flv to the Archive/category directory, creating the folder if it doesn't exist
-			if(!file_exists($appRoot."archive/".$file->folder)){
-				mkdir($appRoot."archive/".$file->folder, 0700);
+			if(!file_exists($appRoot."/archive/".$file->folder)){
+				mkdir($appRoot."/archive/".$file->folder, 0700);
 			}
-			rename($appRoot."files/".$file->filename, $appRoot."archive/".$file->folder."/".$file->filename);
-			rename($appRoot."files/".$file->folder."/".$file->base.".flv",$appRoot."archive/".$file->folder."/".$file->base.".flv");
-			rename($appRoot."files/".$file->folder."/".$file->base.".m4v",$appRoot."archive/".$file->folder."/".$file->base.".m4v");
-			rename($appRoot."files/".$file->folder."/".$file->base.".mp3",$appRoot."archive/".$file->folder."/".$file->base.".mp3");
-			//This is already done by the encoder
-			/*
-			if(!mysql_unbuffered_query("UPDATE `files_uploaded` set completed = 1 WHERE id =".$file->id.";", $db->connection)){
-				echo "Could not UPDATE completed field";
-			}
-			*/
-			$end = time();
-			$totalTime = $end - $begin;
-			
+			rename($appRoot."/files/".$file->filename, $appRoot."/archive/".$file->folder."/".$file->filename);
+			rename($appRoot."/files/".$file->folder."/".$file->base.".flv",$appRoot."/archive/".$file->folder."/".$file->base.".flv");
+			rename($appRoot."/files/".$file->folder."/".$file->base.".m4v",$appRoot."/archive/".$file->folder."/".$file->base.".m4v");
+			rename($appRoot."/files/".$file->folder."/".$file->base.".mp3",$appRoot."/archive/".$file->folder."/".$file->base.".mp3");
+
+			$totalTime = time() - $begin;
+
 			//get user information
 			$recp=null;
 			if ($file->username && $file->submitted_by){
 				//clone the db connection and use it to access the user database
-				$user_db = new DBManager($config['server'], CRT_USER, CRT_PASS, CRT_DATABASE);
+				$user_db = new DBManager($config->server, $config->user, $config->pass, CRT_DATABASE);
 				if (!$user_db) {
 					echo "Database Error Encountered while getting user info: ".$user_db->errorCode." – ".$user_db->errorMsg;
 				} else {

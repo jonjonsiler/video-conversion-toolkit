@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>Stretching Your Dollars</title>
+	<creator>OETA</creator>
+	<annotation>Oklahoma News Report Stretching Your Dollars Feature Category</annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Gasoline Prices</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Gas_Prices.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Gas_Prices.jpg</image>
+			<identifier>1663</identifier>
+			<annotation><![CDATA[Americans are feeling the pain at the pump, as gas prices continue to rise. Mike Thornbrugh with the Quik Trip Corporation, joined us to talk about the impact of the rising cost of gasoline, and its impact on business and consumers.
+]]></annotation>
+			<trackNum>26</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Holiday Spending and Tracey Ryder Interview</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Holiday_Spending.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Holiday_Spending.jpg</image>
+			<identifier>1662</identifier>
+			<annotation><![CDATA[Shoppers spent more on Christmas this year, and that means a good holiday shopping season for retailers. The National Retail Federation predicts holiday spending will top 450 billion dollars.  That’s an increase of more than 3% from last year. Tracey Ryder with Consumer Credit Counseling has some advice for those who chose to put much of that spending on credit cards.
+]]></annotation>
+			<trackNum>25</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Returning Gifts</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Returning_Gifts.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Returning_Gifts.jpg</image>
+			<identifier>1660</identifier>
+			<annotation><![CDATA[The shopping season remains in full swing. Holiday sales are a big draw, gift cards are proving quite popular, and shoppers are lining up at customer service desks with returns and exchanges.
+]]></annotation>
+			<trackNum>24</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Gift Cards</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Gift_Cards.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Gift_Cards.jpg</image>
+			<identifier>1649</identifier>
+			<annotation><![CDATA[Holiday gift cards have become very popular. In an effort to protect consumers, new rules governing the use of the cards are in effect this year. Randy Cloud is a certified public accountant, and he joined us to talk about the new guidelines.]]></annotation>
+			<trackNum>23</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Economic Forecast and Live Interview</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Economic_Forecast_and_Live_Interview.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Economic_Forecast_and_Live_Interview.jpg</image>
+			<identifier>1575</identifier>
+			<annotation><![CDATA[The economic forecast for Oklahoma is improving. Experts from across the state met in Oklahoma City to discuss the financial future of our state.
+]]></annotation>
+			<trackNum>22</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Tulsa Auction House</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Tulsa_Auction_House.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Tulsa_Auction_House.jpg</image>
+			<identifier>1561</identifier>
+			<annotation><![CDATA[A company in Tulsa is doing big business, thanks in large part to the real estate bust. Williams and Williams Auctions has sold a billion dollars worth of foreclosed property, including the Pontiac Silver Dome.]]></annotation>
+			<trackNum>21</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Cyber Monday</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Cyber_Monday.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Cyber_Monday.jpg</image>
+			<identifier>1539</identifier>
+			<annotation><![CDATA[With the holiday shopping season underway, many Oklahomans logged onto the Internet to take advantage of the deals offered on "Cyber Monday." We look at the growing impact of shopping online.]]></annotation>
+			<trackNum>20</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Job Fair</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Job_Fair.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Job_Fair.jpg</image>
+			<identifier>1024</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>19</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>Oklahoma News Report</title>
+			<ov:subtitle>Midwest Economy</ov:subtitle>
+			<location>http://video.oeta.tv/onr/stretch/Midwest_Economy.flv</location>
+			<image>http://video.oeta.tv/onr/stretch/_thumbs/Midwest_Economy.jpg</image>
+			<identifier>1001</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+	</trackList>
+</playlist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:ov="http://www.oeta.tv/2009/ov/">
+	<title>OETA Previews</title>
+	<creator>OETA</creator>
+	<annotation></annotation>
+	<meta rel="generator">MetaMorphIsis at OETA</meta>
+	<meta rel="generatorURL">http://www.oeta.tv</meta>
+	<trackList>
+		<track>
+			<title>Recreating America</title>
+			<ov:subtitle>Creativity and Learning</ov:subtitle>
+			<location>http://video.oeta.tv/oeta_promos/Recreating_America.flv</location>
+			<image>http://video.oeta.tv/oeta_promos/_thumbs/Recreating_America.jpg</image>
+			<identifier>731</identifier>
+			<annotation><![CDATA[For much of its history, the word "America" has stood for the brightest ideas, the most resourceful solutions and the most provocative insights. Is this still true today, and if not, what can we do? The film explores the importance of creativity in education by highlighting four schools in Oklahoma and assessing how the state's teachers are attempting to teach and promote creativity: Educare Preschool in Tulsa, OK: serving a low-income, at-risk community; Flower Mound Elementary School in Lawton, OK: integrating the arts into the entire curriculum with the A+ Schools initiative; Odyssey of the Mind, a creative problem-solving competition at Piedmont Middle School; Santa Fe South Charter High School in Oklahoma City: helping students overcome the challenges of poverty and the high drop-out rate in America's urban high schools. The program asks teachers, parents and national experts: what appear to be the most effective ways to promote creativity, while still teaching the three Rs, and even improving test scores?]]></annotation>
+			<trackNum>10</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>A Capitol Fourth</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/oeta_promos/smitselmo_LB.flv</location>
+			<image>http://video.oeta.tv/oeta_promos/_thumbs/smitselmo_LB.jpg</image>
+			<identifier>350</identifier>
+			<annotation><![CDATA[]]></annotation>
+			<trackNum>4</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">HD</meta>
+		</track>
+		<track>
+			<title>We Shall Remain Oklahoma</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/oeta_promos/WSR.flv</location>
+			<image>http://video.oeta.tv/oeta_promos/_thumbs/WSR.jpg</image>
+			<identifier>195</identifier>
+			<annotation><![CDATA[Inspired by American Experience's compelling We Shall Remain series, OETA has launched We Shall Remain Oklahoma, a statewide Native story collection effort. Become a part of this national "story circle:" one that will never break if Oklahoma's Native people share their stories.]]></annotation>
+			<trackNum>3</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>Ken Burns Dustbowl Stories Request</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/oeta_promos/Dustbowl.flv</location>
+			<image>http://www.oeta.tv/images/stories/kb%20looking%20into%20camera.jpg</image>
+			<identifier>194</identifier>
+			<annotation><![CDATA[Iconic filmmaker Ken Burns is asking for help from Oklahomans to help with his research for an upcoming documentary on the Dustbowl.]]></annotation>
+			<trackNum>2</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+		<track>
+			<title>The War</title>
+			<ov:subtitle></ov:subtitle>
+			<location>http://video.oeta.tv/oeta_promos/VTS_01_1.flv</location>
+			<image>http://video.oeta.tv/oeta_promos/_thumbs/VTS_01_1.jpg</image>
+			<identifier>193</identifier>
+			<annotation><![CDATA[A compelling introduction to Ken Burns' The War, covering World War II.]]></annotation>
+			<trackNum>1</trackNum>
+			<meta rel="type">flv</meta>
+			<meta rel="aspect">SD</meta>
+		</track>
+	</trackList>
+</playlist>
